@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @S1mp1eDude
+- 👀 I’m interested in: Web Development, and Game Development.
+- 🌱 I’m currently learning: JS, NodeJS, Unity/C#, React.
+- 📫 How to reach me: Just shoot me a dm @FLzyy#6202 on Discord.
