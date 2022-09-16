@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, NodeJS, JS, CSS, HTML, Unity/C#, Lua/Luau (Roblox)**
 
-- 💬 Ask me about **Luau**
-
 - 📫 How to reach me **@FLzyy#6202 on Discord**
 
 <h3 align="left">Languages and Tools:</h3>
