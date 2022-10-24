@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm FLzyy</h1>
 <h3 align="left">General Developer trying to learn.</h3>
 
-- 🔭 I’m currently working on [JSBot](https://github.com/S1mp1eDude/JSBot)
+- 🔭 I’m currently working on [Fizz-Buzz](https://github.com/FLzyy/Fizz-Buzz) and
+      [NCrypt](https://github.com/FLzyy/NCrypt)
 
 - 🌱 I’m currently learning **React, NodeJS, JS, CSS, HTML, Unity/C#, Lua/Luau (Roblox)**
 
