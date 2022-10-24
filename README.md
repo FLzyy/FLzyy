@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm S1mpleDude</h1>
+<h1 align="left">Hi 👋, I'm FLzyy</h1>
 <h3 align="left">General Developer trying to learn.</h3>
 
 - 🔭 I’m currently working on [JSBot](https://github.com/S1mp1eDude/JSBot)
