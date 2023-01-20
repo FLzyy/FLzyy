@@ -1,5 +1,7 @@
 yo
 
+---
+
 My stat-istics:
 
 ![](https://raw.githubusercontent.com/FLzyy/stats/master/generated/overview.svg#gh-dark-mode-only)
