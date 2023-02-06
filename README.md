@@ -4,7 +4,7 @@ yo
 
 My stat-istics:
 
-![](https://raw.githubusercontent.com/FLzyy/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/FLzyy/stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/FLzyy/stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/FLzyy/stats/master/generated/languages.svg#gh-light-mode-only)
+![Overview](https://raw.githubusercontent.com/FLzyy/stats/master/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://raw.githubusercontent.com/FLzyy/stats/master/generated/overview.svg#gh-light-mode-only)
+![Top Languages](https://raw.githubusercontent.com/FLzyy/stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Languages](https://raw.githubusercontent.com/FLzyy/stats/master/generated/languages.svg#gh-light-mode-only)
