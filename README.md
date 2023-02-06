@@ -11,5 +11,5 @@ My stat-istics:
 
 ---
 
-[![Kulay](https://github-readme-stats.vercel.app/api/pin/?username=FLzyy&repo=kulay#gh-dark-mode-only)](https://github.com/FLzyy/kulay#gh-dark-mode-only)
+[![Kulay](https://github-readme-stats.vercel.app/api/pin/?username=FLzyy&repo=kulay&theme=dark#gh-dark-mode-only)](https://github.com/FLzyy/kulay#gh-dark-mode-only)
 [![Kulay](https://github-readme-stats.vercel.app/api/pin/?username=FLzyy&repo=kulay#gh-light-mode-only)](https://github.com/FLzyy/kulay#gh-dark-mode-only)
